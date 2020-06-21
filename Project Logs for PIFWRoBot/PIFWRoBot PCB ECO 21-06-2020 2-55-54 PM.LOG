@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=12V Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=NetM*_2 Pin=R11-2
+Removed Pin From Net: NetName=NetM*_3 Pin=R12-2
+Removed Pin From Net: NetName=NetM*_4 Pin=R13-2
+Added Pin To Net: NetName=3V3_MC Pin=P1-1
+Added Pin To Net: NetName=12V Pin=P1-1
+Added Pin To Net: NetName=3V3_MC Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetM*_2 Pin=R14-2
+Added Pin To Net: NetName=NetM*_3 Pin=R15-2
+Added Pin To Net: NetName=NetM*_4 Pin=R16-2
+Added Room: Name=Bluetooth
+Added Room: Name=Decawave
+Added Room: Name=MCU
+Added Room: Name=Motor_Controller
+Added Room: Name=Power_Supply
+Added Room: Name=RF
+Added Room: Name=Sensor
+Added Room: Name=Wifi

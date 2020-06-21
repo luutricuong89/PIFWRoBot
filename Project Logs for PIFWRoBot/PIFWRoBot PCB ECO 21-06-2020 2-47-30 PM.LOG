@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=12V Pin=P1-1
+Added Pin To Net: NetName=3V3_MC Pin=P1-1
+Added Pin To Net: NetName=12V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Member To Class: ClassName=Wifi Member=Component U6 CP2102-GM
+Added Room: Name=Bluetooth
+Added Room: Name=Decawave
+Added Room: Name=MCU
+Added Room: Name=Motor_Controller
+Added Room: Name=Power_Supply
+Added Room: Name=RF
+Added Room: Name=Sensor
+Added Room: Name=Wifi
