@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QHPPEFOR
 
 [Document4]
 DocumentPath=Altium Library\BJT.SchLib
@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OCKQQWAQ
 
 [Document7]
 DocumentPath=Altium Library\Capacitor.PcbLib
@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XYNEQVDB
 
 [Document9]
 DocumentPath=Altium Library\Capacitor-TH.PcbLib
@@ -514,40 +514,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KKMLDFHN
 
 [Document29]
-DocumentPath=Library from me\PIFWRoBot.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BOJRASUT
-
-[Document30]
-DocumentPath=Library from me\PIFWRoBot.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IXRCGQJT
-
-[Document31]
 DocumentPath=Schematic\Bluetooth.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QEWULFBX
 
-[Document32]
+[Document30]
 DocumentPath=Schematic\Decawave.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,58 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIFHEAVG
 
-[Document33]
-DocumentPath=Schematic\MCU.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HKOECMJX
-
-[Document34]
-DocumentPath=Schematic\Motor_Controller.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=INVRTPSL
-
-[Document35]
-DocumentPath=Schematic\Power_Supply.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QMGYXIRS
-
-[Document36]
+[Document31]
 DocumentPath=Schematic\RF.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -649,24 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMYNDCIM
 
-[Document37]
-DocumentPath=Schematic\Sensor.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XHVHVGKP
-
-[Document38]
+[Document32]
 DocumentPath=Schematic\Wifi.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -683,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDIFSNGO
 
-[Document39]
+[Document33]
 DocumentPath=PCB\PIFWRoBot.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXHGUJLY
 
-[Document40]
+[Document34]
 DocumentPath=Complied Libraries\434113043826_Altium_WS-TASV_rev20a.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -717,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document35]
 DocumentPath=Complied Libraries\LED_150060BS75000_Altium_WL-SMCW_rev20a.intlib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -734,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document36]
 DocumentPath=Complied Libraries\PIF_C16_lib.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -751,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document37]
 DocumentPath=Altium Library\MOSFET.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -768,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FOLIKYBY
 
-[Document44]
+[Document38]
 DocumentPath=Altium Library\MOSFET.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -785,7 +683,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LNXXSBOO
 
-[Document45]
+[Document39]
 DocumentPath=Library from Ultra\DWM1001.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -802,7 +700,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DSOLOCQI
 
-[Document46]
+[Document40]
 DocumentPath=Library from Ultra\DWM1001.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -818,6 +716,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSPJJLKH
+
+[Document41]
+DocumentPath=PIFWRoBot Library\PIFWRoBot.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document42]
+DocumentPath=PIFWRoBot Library\PIFWRoBot.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IXRCGQJT
 
 [Configuration1]
 Name=Sources
